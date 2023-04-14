@@ -25,5 +25,5 @@ All files for this project can be downloaded from here (link).
 We will be expected to deliver a GitHub repository with the following:
 ● Airflow DAG file for the data pipeline.
 ● Documentation of the pipeline.
-○ Highlight at least 3 best practices used during the implementation.
+○ Highlight at least 3 best practices used during the implementation. 
 ○ Recommendations for deployment and running the pipeline in a cloud-based provider. 
