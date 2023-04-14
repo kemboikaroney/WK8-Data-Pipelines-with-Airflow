@@ -21,7 +21,7 @@ The following are sample CSV files that will be used in the data pipeline:
 ● order_data.csv
 ● payment_data.csv
 All files for this project can be downloaded from here (link).
-##Deliverables
+## Deliverables
 We will be expected to deliver a GitHub repository with the following:
 ● Airflow DAG file for the data pipeline.
 ● Documentation of the pipeline.
