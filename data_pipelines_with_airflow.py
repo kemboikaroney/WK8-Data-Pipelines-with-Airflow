@@ -83,9 +83,9 @@ def load_data(transformed_df):
     try:
         # Connect to the PostgreSQL database
         conn = psycopg2.connect(
-            host = "34.170.193.146"
-            database = "mtnDB"
-            user = "admin"
+            host = "34.170.193.146",
+            database = "mtnDB",
+            user = "admin",
             password = "admin1"
         )
 
